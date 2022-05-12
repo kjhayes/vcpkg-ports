@@ -1,0 +1,15 @@
+{
+  "name": "cfdump",
+  "version-string": "0.0",
+  "description": "C++ Java class file utility library",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
