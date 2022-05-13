@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO kjhayes/cfdump
-    REF b1cf7654c8b61498e6adc68c304d441bb00a5060
-    SHA512 fd0eb30b082c5a15137b91bcd8f8327415ed85e316fb56afd20c65b7429432276ead53b1ac1e2c09e5afaf1d1aeca069a8c205594c9ad7f4157daf62c6b97e45
+    REF 9e0a543d3fc8bef9c86c99a92d1c79304c3d3ed9
+    SHA512 37acb7c695d50b53072b9e09ff423b2ec8e09fd4a0eabb579dabd1baeec56bbd946e3bd2123db3e6d68e94a81e45104b9fb96dd2933457e99bdd6016ac89654e
     HEAD_REF trunk
 )
 vcpkg_cmake_configure(
